@@ -42,6 +42,7 @@ link:
   peertube: PeerTube
   etherpad: Etherpad
   debian: Debian
+  google-forms: Google Forms
 
 nav:
   home: Home
